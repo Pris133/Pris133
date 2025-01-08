@@ -3,7 +3,8 @@
 
 - 💬 Pregúntame sobre **Estudio en la Universidad Tecnológica del Perú, mi interés de poder seguir aprendiendo más lenguajes de Programación y poder crear Sistemas que complementen a esos conocimientos.**
 
-- 📫 Cómo contactarme **cr0753798@gmail.com** **Numero: 931719439**
+- 📫 Cómo contactarme **cr0753798@gmail.com**
+- **Numero: 931719439**
 - <h3 align="left">Conéctate conmigo:</h3>
 <p align="left"> 
 <a href="https://fb.com/priscilla arboleda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priscilla arboleda" height="30" width="40" /></a>
