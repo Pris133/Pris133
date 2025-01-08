@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 , soy Priscilla Caroline Arboleda Ramirez</h1>
-<h3 align="center">Cursando la carrera de Ingeniería de Sistemas, me interesa aprender y contribuir conocimiento de los Sistemas de Información.</h3>
+<h3 align="center">Cursando la carrera de Ingeniería de Sistemas e Informática, me interesa aprender y contribuir conocimiento de los Sistemas de Información.</h3>
 
 - 💬 Pregúntame sobre **Estudio en la Universidad Tecnológica del Perú, mi interés de poder seguir aprendiendo más lenguajes de Programación y poder crear Sistemas que complementen a esos conocimientos.**
 
